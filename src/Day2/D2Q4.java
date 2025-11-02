@@ -1,6 +1,6 @@
 /* You are given a string s. In one move you can change any character to another character.
 You have to make a string which consists of the same character. Find the minimum move to do this task. */
-
+package Day2;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

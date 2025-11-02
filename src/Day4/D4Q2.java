@@ -3,7 +3,7 @@ Create two subclasses Scooter and Car which has method noOfWheels()
 noOfWheels() of Vehicle should display “No of wheels undefined”.
 noOfWheels() of Scooter should display “No of wheels 2”.
 noOfWheels() of Car should display “No of wheels 4”. */
-
+package Day4;
 public class D4Q2 {
     public static void main(String[] args) {
         Vehicle v = new Vehicle();

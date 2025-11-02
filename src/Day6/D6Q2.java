@@ -1,3 +1,5 @@
+package Day6;
+
 import java.util.Scanner;
 
 public class D6Q2 {

@@ -1,6 +1,7 @@
 /* Write a Java program that takes two integers as input and performs division. The program should handle exceptions 
 for invalid input (non-integer input) and division by zero. 
 The program should continue to prompt the user for valid input until successful division is performed. */
+package Day5;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

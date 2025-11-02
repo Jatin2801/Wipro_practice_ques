@@ -3,7 +3,7 @@ The class should have instance variables for the length and width of the rectang
 It should also have methods to calculate the area and perimeter of the rectangle. 
 Write the Java class "Rectangle" according to the given specifications and
  demonstrate its usage by creating objects and invoking the methods. */
-
+package Day4;
 import java.util.Scanner;
 public class D4Q1 {
     public static void main(String[] args) {

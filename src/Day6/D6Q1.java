@@ -1,6 +1,6 @@
 /*students are provided with a challenge to sort the given arraylist in the lesser lines of code. 
 Student with minimum lines will win , try to write a code for it in less lines and win */
-
+package Day6;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;

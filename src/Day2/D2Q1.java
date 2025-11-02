@@ -1,6 +1,6 @@
 /* sum of the elements present inside the array
  Write a program to find the sum of the elements present inside the array. */
-
+package Day2;
 import java.util.Scanner;
 
 public class D2Q1 {

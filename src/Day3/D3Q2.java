@@ -1,5 +1,5 @@
 /* Find the sum of the digits using recursion */
-
+package Day3;
 import java.util.Scanner;
 public class D3Q2 {
         public static void main(String[] args) {

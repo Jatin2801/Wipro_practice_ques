@@ -7,7 +7,7 @@ c)     Accepts 3 parameter of type double(width, height, depth)
 iii)  Create a method volume of type double that returns a product of width, height, and depth.
 iv)  in case of No argument constructor make length=width=depth = 0;
 v)  in case of 1 argument constructor make length=width=depth = length; */
-
+package Day4;
 public class D4Q4 {
     public static void main(String args[]) {
         // create boxes using the various

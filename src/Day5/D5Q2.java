@@ -1,6 +1,6 @@
 /* You are required to catch Arithmetic or number format exceptions if present using multiple catch blocks in the code for finding of 99 with the number entered by user,
  else print "n is a factor of 99" or "n is not a factor of 99". */
-
+package Day5;
 import java.util.Scanner;
 
 public class D5Q2 {

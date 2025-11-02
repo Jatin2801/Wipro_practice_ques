@@ -2,6 +2,7 @@
  The system manages different types of items in the library, such as books, DVDs, and magazines.  
  Each item has common attributes like title, author/creator, a unique identifier, 
 and a status indicating whether it is checked out or available. */
+package Day6;
 
 import java.util.ArrayList;
 import java.util.List;

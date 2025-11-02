@@ -1,6 +1,7 @@
 /*Write a java program to remove an element from the Map, you can use the remove() method.
  This method takes the key value and
 removes the mapping for a key from this map if it is present in the map. */
+package Day6;
 
 import java.util.HashMap;
 import java.util.Scanner;

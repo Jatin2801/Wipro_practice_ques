@@ -1,7 +1,7 @@
 /* Instructions:
 Write a program that takes two numbers as input from the user and performs arithmetic 
 operations on them using the arithmetic operators (sum, difference, product, quotient, remainder) in Java. */
-
+package Day1;
 import java.util.Scanner;
 
 public class D1Q1 {

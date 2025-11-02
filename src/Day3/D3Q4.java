@@ -1,6 +1,6 @@
 /*Create one default constructor to initialize the fields as default values to calculate volume of the cube 
 and one parameterized constructor to pass parameters and initialize them accordingly.  */
-
+package Day3;
 import java.util.Scanner;
 
 public class D3Q4 {

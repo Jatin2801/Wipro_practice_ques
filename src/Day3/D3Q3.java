@@ -3,6 +3,7 @@ Instance Variables:
 title (String): to store the title of the book.
 author (String): to store the name of the author.
 year (int): to store the publication year of the book. */
+package Day3;
 public class D3Q3 {
     public static void main(String[] args) {
         Book book1 = new Book();

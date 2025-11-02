@@ -1,5 +1,6 @@
 /*Rohan is given a task two return indices of pair whose sum will be equal to the given target.
 Only one such pair is required. */
+package Day6;
 
 import java.util.Scanner;
 

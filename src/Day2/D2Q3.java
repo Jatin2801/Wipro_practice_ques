@@ -1,5 +1,5 @@
 /* Write a function to reverse each word in a string. */
-
+package Day2;
 import java.util.Scanner;
 
 public class D2Q3 {

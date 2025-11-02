@@ -1,5 +1,5 @@
 /* Write a program that takes the row & columns input from the user to populate a 2D array and then prints the array. */
-
+package Day2;
 import java.util.Scanner;
 public class D2Q2 {
     public static void main(String[] args) {

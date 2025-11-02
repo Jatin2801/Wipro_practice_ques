@@ -1,5 +1,5 @@
 /* Write a Java program to create a method that takes a string as input and throws an exception if the string does not contain vowels. */
-
+package Day5;
 import java.util.Scanner;
 
 public class D5Q3 {

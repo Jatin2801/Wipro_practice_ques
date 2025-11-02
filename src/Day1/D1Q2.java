@@ -1,6 +1,6 @@
 /* Instructions: Write a program that takes two boolean values as input and performs logical 
 operations (AND, OR) on them using the logical operators& print the result. */
-
+package Day1;
 import java.util.Scanner;
 public class D1Q2 {
         public static void main(String[] args) {
