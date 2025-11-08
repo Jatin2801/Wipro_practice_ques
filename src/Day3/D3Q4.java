@@ -11,6 +11,7 @@ public class D3Q4 {
         int h = s.nextInt();
         	
        // Constructor cuboid1 = new Constructor();
+ @SuppressWarnings("unused")
         Constructor cuboid2 = new Constructor(l, b, h);
         s.close();
     }
